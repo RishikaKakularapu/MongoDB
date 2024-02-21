@@ -1,2 +1,2 @@
 # MongoDB-
-Performance of database operations on MongoDB is analyzed and evaluated.
+— The aim of this project is to explore the working of MongoDB and its differences from Relational Database Management Systems (RDBMS). In addition, this report evaluates the performance of database operations on MongoDB. This report covers three major areas. First, an overview of MongoDB and RDBMS is provided. Second, the differences between the two databases are discussed. Finally, the performance of database operations on MongoDB is analyzed and evaluated.
